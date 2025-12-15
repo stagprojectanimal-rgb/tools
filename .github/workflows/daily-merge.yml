@@ -1,4 +1,7 @@
 name: Daily merge videos json
+permissions:
+  contents: write
+
 
 on:
   schedule:
