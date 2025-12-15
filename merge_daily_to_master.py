@@ -52,8 +52,15 @@ def main():
     # 既存 master を読み込み（あれば）
     if os.path.exists(MASTER_JSON_PATH):
         master = load_json(MASTER_JSON_PATH)
-        for v in master.get("videos", []):
+
+        if isinstance(master, list):
+            master_videos = master
+        else:
+            master_videos = master.get("videos", [])
+
+        for v in master_videos:
             videos_by_id[v["id"]] = v
+
 
     # daily json を全読み込み
     daily_files = sorted(
