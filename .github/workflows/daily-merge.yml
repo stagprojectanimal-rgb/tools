@@ -2,8 +2,7 @@ name: Daily merge videos json
 
 on:
   schedule:
-    毎日 0:05 JST（= 15:05 UTC）
-    - cron: "5 15 * * *"
+    - cron: "0 4 * * *"   # US Eastern 0:00（夏時間想定）
   workflow_dispatch: {}
 
 jobs:
