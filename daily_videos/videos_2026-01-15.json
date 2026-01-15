@@ -1,7 +1,7 @@
 {
   "updated_at": "2026-01-15",
   "days": 1,
-  "count": 1,
+  "count": 2,
   "videos": [
     {
       "id": "_VpGIeTlx7c",
@@ -19,6 +19,23 @@
       "category": "rules",
       "publish_at": "2026-01-15T21:53:50.728950Z",
       "created_at": "2026-01-15T12:46:26.746855Z"
+    },
+    {
+      "id": true,
+      "thumbnail_url": "https://i.ytimg.com/vi/True/hqdefault.jpg",
+      "title": {
+        "en": "Here are some titles designed to meet your criteria:",
+        "es": "To generate titles, I need the specific \"theme\" that each title must implicitly include. The prompt states: \"Each title must include the theme\" and \"The theme must appear implicitly through the situation.\"",
+        "pt-BR": "Okay, I understand the rules completely. I am ready to generate titles that fit all the specified criteria, including the implicit inclusion of a theme once it is provided."
+      },
+      "comment": {
+        "en": "Even the most diligent creature eventually needs a quiet moment, I hope.",
+        "es": "Hasta uno necesita un respiro, espero.",
+        "pt-BR": "Até eu preciso de um sossego, espero."
+      },
+      "category": "rules",
+      "publish_at": "2026-01-16T05:48:00Z",
+      "created_at": "2026-01-15T14:59:23.138350Z"
     }
   ]
 }
