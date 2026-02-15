@@ -1,0 +1,20 @@
+{
+  "updated_at": "2026-02-15",
+  "days": 1,
+  "count": 1,
+  "videos": [
+    {
+      "id": "SpM7iJPhLho",
+      "thumbnail_url": "https://i.ytimg.com/vi/SpM7iJPhLho/hqdefault.jpg",
+      "title": {
+        "en": "My food’s cold. What’s new?",
+        "es": "Food's cold. Expected nothing less.",
+        "pt-BR": "Another shift already?"
+      },
+      "comment": " ",
+      "category": "rules",
+      "publish_at": "2026-02-23T00:14:00Z",
+      "created_at": "2026-02-15T02:25:01.415354Z"
+    }
+  ]
+}
